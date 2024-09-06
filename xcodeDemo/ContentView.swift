@@ -40,7 +40,7 @@ struct ContentView: View {
                 }
             }
         } detail: {
-            Text("Select an item")
+            Text("project updated")
         }
     }
 
